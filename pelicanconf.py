@@ -1,7 +1,7 @@
 SITENAME = 'Open Data Science'
 SITETITLE = 'Open Data Science'
 SITESUBTITLE = 'some awesome motto'
-SITEURL = 'http://beta'
+SITEURL = 'http://beta.datafest.by'
 SITELOGO = 'http://ods.ai/ods-front.png'
 
 PATH = 'content'
