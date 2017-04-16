@@ -1,0 +1,29 @@
+#python specific
+*.pyc
+
+## generic files to ignore
+*~
+*.lock
+*.log
+*.log.*
+*.idea
+*.DS_Store
+*.swp
+*.out
+*.diff
+
+## data
+*.sqlite3
+*.db
+*.csv
+*.gz
+*.zip
+*.json
+*.mmdb
+*.rdb
+*.dat
+*.png
+*.bin
+
+Makefile
+output/*
