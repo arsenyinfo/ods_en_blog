@@ -6,6 +6,10 @@ The blog is located at beta.datafest.by (just for a while) and is built with [Pe
 
 The website is regenerated from _master_ branch of this repository on a regular basis.
 
+### Content plan
+
+[Feel free to join!](https://docs.google.com/spreadsheets/d/1wciiesCFBibJgfO4f1qqI0xQ3_iOITUNbnPxQ5Ht9Gs/edit#gid=2062218572)
+
 ### For contributors
 
 ### FAQ
