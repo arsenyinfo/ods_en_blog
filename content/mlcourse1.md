@@ -1,4 +1,9 @@
-# OpenDataScience/ODS Open Course Kick-off
+Title: ODS Open ML Course #1
+Date: 2017-04-01
+Category: Open ML Course
+Author: test user
+
+# 
 
 Greetings everyone who waited for the open course in hands-on data analysis and machine learning to launch! 
 
