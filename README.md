@@ -18,6 +18,8 @@ The website is regenerated from _master_ branch of this repository on a regular 
 
 - content!
 - better /about
+- habracut analogue
+- python support for code snippets
 - more suitable template
 - comments with Disqus
 - rebuild based on webhooks

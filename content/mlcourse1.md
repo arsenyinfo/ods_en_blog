@@ -3,8 +3,6 @@ Date: 2017-04-01
 Category: Open ML Course
 Author: test user
 
-# 
-
 Greetings everyone who waited for the open course in hands-on data analysis and machine learning to launch! 
 
 <img align="center" src="https://habrastorage.org/files/10c/15f/f3d/10c15ff3dcb14abdbabdac53fed6d825.jpg"/>
